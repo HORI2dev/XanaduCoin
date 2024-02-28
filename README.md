@@ -1,3 +1,7 @@
+Start of development of XanaduCoin.
+
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
